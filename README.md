@@ -20,17 +20,19 @@
 
 
 
-<div id="header" align="center">
-- 👋 Hi, I’m @iemafzalhassan
+<h1>
+  👋 hey there!
+  i'm Afzal Hassan Ehsani
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
-- 👀 I’m interested in DevOps 
+- 👀 I’m interested in DevOps, Android Development, Ios Development
 --->
 - 🌱 I’m currently Envolved into DevOps. 
 <!---
 - 💞️ I’m looking to collaborate on ... 
 --->
 - 📫 How to reach me iemafzal@proton.me
-</div>
 <!---
 iemafzalhassan/iemafzalhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
