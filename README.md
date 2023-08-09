@@ -3,12 +3,10 @@
 # 💫 About Me:
 I am a student who loves programming<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a student.
-- 👀 🤝 I’m looking for help to get into DevOps.
 - :seedling: Exploring Devops.
-
 - :zap: In my free time, I spent time on learning cool stuffs.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iemafzalhassan/)
+- 👀 I’m looking for helping hand 🤝 to get into DevOps.
+- :mailbox:How to reach me: iemafzalhassan@gmail.com
 
 
 ## 🌐 Socials:
