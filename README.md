@@ -25,6 +25,9 @@ I am a student who loves programming<img src="https://media.giphy.com/media/WUlp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iemafzalhassan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
