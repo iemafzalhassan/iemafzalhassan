@@ -1,4 +1,5 @@
-# <h1 align="centre"Hey Folks!><img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
+# Hey Folks!<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### `👨🏻‍💻 About Me:`
 ##### I am a student who *love's* to `Code.` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
