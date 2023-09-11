@@ -4,15 +4,9 @@
 # Hey Folks! 👋
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 👨🏻‍💻 About Me:
-I am a student who loves to code. 
-:telescope: I’m a student.
-:seedling: Exploring OpenSource.
-👀 On the path to Dive in DevOps.
-:zap: In my free time, I spend time learning cool stuff.
-:mailbox: How to reach me: iemafzalhassan@gmail.com
 
 </div>
+
 ### `👨🏻‍💻 About Me:`
 ##### I am a student who *love's* to `Code.` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 #####   :telescope: I’m a student.
