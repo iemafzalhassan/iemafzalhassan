@@ -7,12 +7,12 @@
 </div>
 
 ### `👨🏻‍💻 About Me:`
-##### I am a student who *love's* to `Code.` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-#####   :telescope: I’m a student.
-#####   :seedling: Exploring OpenSource.
-#####   👀  On the path to Dive in DevOps.
-#####   :zap: In my free time, I spent time on learning cool stuffs.
-#####   :mailbox:  How to reach me: iemafzalhassan@gmail.com
+#### I am a student who *love's* to `Code.` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+####   :telescope: I’m a student.
+####   :seedling: Exploring OpenSource.
+####   👀  On the path to Dive in DevOps.
+####   :zap: In my free time, I spent time on learning cool stuffs.
+####   :mailbox:  How to reach me: iemafzalhassan@gmail.com
 <br>
 
 ### `🌐 Connect with me:`
