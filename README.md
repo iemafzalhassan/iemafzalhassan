@@ -1,4 +1,4 @@
-# Hey Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="centre" width="30px"/>
+# <h1 align="center"Hey Folks!<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### `👨🏻‍💻 About Me:`
 ##### I am a student who *love's* to `Code.` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -27,7 +27,7 @@
 -->
 
 <!--
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 -->
 
