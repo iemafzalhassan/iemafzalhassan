@@ -33,14 +33,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
 ## `📊 GitHub Stats:`
-<!--
 ![](https://github-readme-stats.vercel.app/api?username=iemafzalhassan&theme=grey&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=grey&hide_border=false)<br/>
-
-<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
 
 <!--
 ### 🏆 GitHub Trophies
