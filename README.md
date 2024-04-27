@@ -3,8 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey Folks!!..+I'm+Md. Afzal Hassan;This+is..;..iemafzalhassan..;" alt="Typing SVG"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hey+Folks!!;I'm...Md.+Afzal+Hassan+Ehsani;ping+me+with+username....;...iemafzalhassan)](https://git.io/typing-svg)
 
 </div>
 
