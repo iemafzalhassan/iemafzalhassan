@@ -29,8 +29,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iemafzalhassan) 
 
-- [![Static Badge](https://img.shields.io/badge/Mail-Here-Green)
-](iemafzalhassan@gmail.com)
+- [![Mail here](https://img.shields.io/badge/Mail-Here-green)](mailto:iemafzalhassan@gmail.com)
 
 
 
