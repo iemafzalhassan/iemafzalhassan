@@ -22,7 +22,7 @@ Aspiring DevOps Engineer<br>🚀 Empowering Innovation Through DevOps | Masterin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -32,7 +32,5 @@ Aspiring DevOps Engineer<br>🚀 Empowering Innovation Through DevOps | Masterin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iemafzalhassan&icon=2&color=12)](https://visitcount.itsvg.in)
-
-
 
 
