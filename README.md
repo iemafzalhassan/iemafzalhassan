@@ -92,8 +92,8 @@ DevOps Engineer
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Architect&quoteType=random)
 
 ---
 
