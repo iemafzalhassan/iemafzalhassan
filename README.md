@@ -53,51 +53,28 @@ DevOps Engineer
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
-
-
-<a href="https://www.buymeacoffee.com/iemafzalhassan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iemafzalhassan&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=chartreuse-dark&hide_border=true)
 
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div align="center">
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💡 Favorite Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
 
-</div>
-
----
-
-### ✍️ Quote
-<div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Architect&quoteType=random)
-
-</div>
+## 🔝 Top Contributed Repo
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=iemafzalhassan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
 
-### 🔝 Top Contributed Repo
-<div align="center">
+<a href="https://www.buymeacoffee.com/iemafzalhassan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
 
-![](https://github-contributor-stats.vercel.app/api?username=iemafzalhassan&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
 
