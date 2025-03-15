@@ -35,6 +35,7 @@ DevOps Engineer
 
 # 💻 Tech Stack:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
@@ -50,7 +51,6 @@ DevOps Engineer
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
 ---
 
