@@ -67,8 +67,8 @@ DevOps Engineer
 ## 💡 Favorite Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
 
-## 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=iemafzalhassan&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+## 🔝 Contributions
+[![ShowPR](https://show-pr.vercel.app/embed/image/iemafzalhassan?v=1)](https://show-pr.vercel.app)
 
 ---
 
