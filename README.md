@@ -68,7 +68,7 @@ DevOps Engineer
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
 
 ## 🔝 Contributions
-[![ShowPR](https://show-pr.vercel.app/embed/image/iemafzalhassan?v=1)](https://show-pr.vercel.app)
+[![ShowPR](https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1)](https://show-pr.vercel.app/iemafzalhassan)
 
 ---
 
