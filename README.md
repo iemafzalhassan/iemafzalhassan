@@ -64,6 +64,7 @@ DevOps Engineer
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
 
+<!--
 ## 💡 Favorite Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
 
@@ -74,6 +75,7 @@ DevOps Engineer
 
 <a href="https://www.buymeacoffee.com/iemafzalhassan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
 
+-->
 
 <div align="center">
 
