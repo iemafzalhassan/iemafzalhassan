@@ -2,27 +2,30 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hey+Visionaries!+%F0%9F%9A%80;Md.+Afzal+Hassan+%F0%9F%87%AE%F0%9F%87%B3;DevOps+Engineer+%7C+Kubernetes+Enthusiast;Building+Cloud-Native+Future;Connect+with+me!+%F0%9F%93%A2)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hello..Visionaries!;Md.+Afzal+Hassan+Ehsani...Here!)](https://git.io/typing-svg)
+  <br><br>
+  <img src="https://img.shields.io/badge/🌱%20Currently%20Exploring-Kubernetes,%20Istio,%20ArgoCD-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Currently Exploring"/>
+  <img src="https://img.shields.io/badge/🚀%20Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+</div>
 
 </div>
 
-# 💫 About Me:
+# :dizzy: About Me
 
-DevOps Engineer
+**DevOps Engineer @ Sunfire Technologies**
 <br>
-
-🚀 Empowering Innovation Through DevOps | Mastering the Art of Scaling, Automating, and Orchestrating Modern Infrastructure
+:rocket: Empowering innovation through scalable infrastructure, automation, and cloud-native orchestration. Passionate about Kubernetes, observability (Prometheus/Grafana), and open-source contributions.
+</br>
 <br>
-
-🌱 Exploring Open Source and CNCF Projects.
+:star2: Building personal projects like Chattingo (full-stack chat app), AlacritySys portfolio, and Kubernetes homelab.
+</br>
 <br>
-
-👀 On the path to Dive Deep in DevOps.
+:zap: Fun fact: Gaming sci-fi while optimizing CI/CD pipelines in the background!
+</br>
 <br>
-
 ⚡ In my free time, I spent time on learning cool stuffs.
-
+</br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iemafzalhassan) 
