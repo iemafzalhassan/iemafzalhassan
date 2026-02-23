@@ -95,12 +95,7 @@ I design and automate scalable cloud-native systems, reduce operational risk, an
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=chartreuse-dark&hide_border=true)
 [![ShowPR](https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1)](https://show-pr.vercel.app/iemafzalhassan)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=chartreuse-dark&hide_border=true" />
-  <a href="https://show-pr.vercel.app/iemafzalhassan">
-    <img src="https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1" />
-  </a>
-</p>
+
 <!--
 ## 💡 Favorite Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
