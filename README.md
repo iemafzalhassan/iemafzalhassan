@@ -123,7 +123,7 @@ I design and automate scalable cloud-native systems, reduce operational risk, an
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iemafzalhassan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iemafzalhassan.in-111111?style=flat&logo=google-chrome&logoColor=white)](https://porrtfolio.iemafzalhassan.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iemafzalhassan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
 
