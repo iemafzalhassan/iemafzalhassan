@@ -1,141 +1,86 @@
 <div align="center">
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=Md.+Afzal+Hassan;DevOps+Engineer+%40+Sunfire+Technologies;Kubernetes+%7C+OpenShift+%7C+GitOps;Production+Cloud-Native+Infrastructure;Automating+Reliable+Systems)](https://git.io/typing-svg)
+# Afzal Hassan
+### **Platform & Reliability Engineer** | **Cloud-Native & SRE Architecture**
+**Operating Air-Gapped Banking Platforms** • **Autonomous AI for Observability** • **Tech Community Builder**
 
-<img src="https://img.shields.io/badge/Focus-Kubernetes%20%7C%20GitOps%20%7C%20Cloud--Native-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afzal_Hassan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemafzalhassan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.iemafzalhassan.tech-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-iemafzalhassan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iemafzalhassan)
+[![Email](https://img.shields.io/badge/Email-iemafzalhassan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
+
+---
+
+> *"Building deterministic, resilient distributed systems where security and observability are foundational invariants."*
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ Executive Summary
 
-DevOps Engineer working on **production Kubernetes environments (Amazon EKS & OpenShift)** with a strong focus on Infrastructure as Code, GitOps, and reliability engineering.
+Platform & DevOps Engineer at **Sunfire Technologies** (deployed on-site with **Yubi**), operating an enterprise collections platform for a Tier-1 Indian public-sector bank across air-gapped **Red Hat OpenShift** clusters (zero internet egress). 
 
-I design and automate scalable cloud-native systems, reduce operational risk, and improve deployment velocity across environments.
-
----
-
-📈 **Impact:**
-- **70% faster provisioning** (saved 20 engineer-hours/week)
-- **60% lower MTTR** (mean time to recovery)
-- **40% cloud cost reduction** via HPA & right-sizing
-- **99.9% uptime** maintained
-- **200+ security issues** remediated before production
+- **Core Engineering:** Air-gapped release engineering, deterministic disaster recovery drills (RTO/RPO compliance), zero-trust network policies (OVN-Kubernetes), and enterprise IAM (Keycloak 26 OIDC).
+- **AI + Observability:** Co-organizer of **Grafana & Friends Mumbai** and creator of **OutagePilot** (an autonomous multi-agent SRE triage engine powered by Go and Gemini).
+- **Community:** Core Team Member at **Cloud Native Mumbai** (500+ engineers) and co-builder of **Merge & Rise**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Flagship Architecture & Engineering Projects
 
-### ☸️ Core DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffd54f)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-### ⚙️ CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
-
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+| Project | Domain / Architecture | Highlights & Core Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **[OutagePilot](https://github.com/iemafzalhassan/OutagePilot)** | **Autonomous AI SRE Platform** | Lightweight in-cluster Go daemons capturing real-time K8s anomalies (`OOMKilled`, `CrashLoopBackOff`); autonomous ReAct triage loop using Google Gemini to formulate remediation runbooks and healing patches. | [Code](https://github.com/iemafzalhassan/OutagePilot) |
+| **EdgeOps** | **Hybrid Multi-Arch Zero-Trust Mesh** | Persistent hybrid K8s cluster (ARM64 Apple Silicon + x86_64) interconnected via Flannel VXLAN bound to Tailscale WireGuard (`tailscale0`). Zero inbound open ports via Cloudflare Tunnels, Keycloak 26 OIDC, and CloudNativePG HA. | `Private / Homelab` |
+| **[terraform-cluster](https://github.com/iemafzalhassan/terraform-cluster)** | **Production Amazon EKS Auto Mode** | Declarative multi-AZ AWS VPC architecture with dynamic node provisioning via Karpenter, IRSA least-privilege scoping, KMS envelope encryption, and metrics server automation. | [Code](https://github.com/iemafzalhassan/terraform-cluster) |
+| **Kube-Telemetry-Stage** | **Cloud-Native Observability & Gateway API** | Modern Azure AKS deployment migrating legacy Ingress to Kubernetes Gateway API (GA v1.5) via Traefik v3 HTTPRoute splitting, Azure Workload Identity Federation, and ArgoCD GitOps bootstrapping. | [Architecture](https://portfolio.iemafzalhassan.tech) |
+| **[Excalidraw Integration](https://github.com/iemafzalhassan)** | **Open-Source Multi-Board Engine** | Engineered Google Drive-backed multi-board persistence and containerized Docker distribution for self-hosted collaborative whiteboarding. | [PR / Fork](https://github.com/iemafzalhassan) |
 
 ---
 
-## 🏗 Current Work
+## 🛠 Technical Invariants & Stack
 
-- Managing production Kubernetes clusters (EKS & OpenShift)
-- Implementing GitOps workflows using ArgoCD
-- Infrastructure provisioning using Terraform
-- CI/CD automation with GitHub Actions
-- Building scalable and production-ready cloud environments
-
----
-
-## 📚 Currently Learning
-
-- Istio Service Mesh (traffic management, security, observability)
-- Advanced GitOps practices
-- Production-grade Kubernetes architecture patterns
-- Preparing for CKA Certification
-  
----
-
-### 🔹 Kubernetes Homelab
-- Self-hosted Kubernetes cluster
-- GitOps experimentation with ArgoCD
-- Infrastructure automation using Terraform
-- Observability stack with Prometheus & Grafana
-- Failure testing and scaling experiments
-
-<!--
----
-
-## 🌍 Open Source Contributions
-- Contributing to repositories in cloud-native ecosystem with feature implementations and issue fixes
-- Pull requests with production-level feature implementations
-- Experience collaborating in multi-reviewer repositories
-- Familiar with enterprise code review workflows
--->
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=chartreuse-dark&hide_border=true" width="48%" />
-  <img src="https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1" width="48%" />
-</p>
-
-<!--
-## 💡 Favorite Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iemafzalhassan&theme=chartreuse-dark&hide_border=true)
-[![ShowPR](https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1)](https://show-pr.vercel.app/iemafzalhassan)
-
-## 🔝 Contributions
-[![ShowPR](https://show-pr.vercel.app/api/badge/iemafzalhassan?v=1)](https://show-pr.vercel.app/iemafzalhassan)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iemafzalhassan&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iemafzalhassan&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
----
-
-<a href="https://www.buymeacoffee.com/iemafzalhassan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
--->
+```
+PLATFORM & ORCHESTRATION    ▸ Kubernetes • Red Hat OpenShift • Amazon EKS • Azure AKS • Docker
+INFRASTRUCTURE AS CODE      ▸ Terraform • OpenTofu • Terragrunt • Helm • Bash • Linux (RHEL, Debian)
+GITOPS & CONTINUOUS FLOW    ▸ ArgoCD (App-of-Apps) • GitHub Actions • GitLab CI • Jenkins (ephemeral JNLP)
+OBSERVABILITY & RELIABILITY ▸ Grafana • Prometheus • Loki • OpenTelemetry • Traefik Gateway API
+SECURITY & ZERO-TRUST       ▸ Keycloak (OIDC/OAuth2) • External Secrets Operator (ESO) • OpenBao / Vault • Tailscale
+PROGRAMMING & SYSTEMS       ▸ Go (Golang) • Python • Bash / Shell Scripting • TypeScript / Node.js
+```
 
 ---
 
-## 🌐 Connect
+## 📜 Verified Credentials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iemafzalhassan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iemafzalhassan)
-[![Email](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
-
----
-
-*Focused on building resilient systems, automating infrastructure, and driving cloud-native excellence.*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iemafzalhassan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+  <img src="https://img.shields.io/badge/GitLab-Solutions%20Architect%20Verified%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab SA" />
+  <img src="https://img.shields.io/badge/Linux%20Foundation-LFS169%20Introduction%20to%20GitOps-003B5C?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/GitHub-Foundations%20Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
 </p>
 
 ---
 
+## 🎙 Talks & Community Leadership
 
+- **Co-Organizer — [Grafana & Friends Mumbai](https://www.linkedin.com/company/grafana-user-group-mumbai/)**: Curating technical sessions on Prometheus, Loki, OpenTelemetry, and speaking on *"From Alert to Action with Grafana MCP and AI"* alongside Simon Prickett (Grafana Labs).
+- **Core Team Member — [Cloud Native Mumbai](https://www.linkedin.com/company/cloudnativemumbai/)**: Organizing in-person CNCF meetups, workshops, and CFPs for a vibrant community of 500+ cloud-native engineers.
+- **Co-Builder — Merge and Rise**: Driving DEI and technical empowerment initiatives for women in cloud-native and AI engineering.
+- **Academic Outreach**: Guest technical speaker at ITM Skills University on container runtimes, Kubernetes architecture, and open-source contribution pathways.
 
+---
+
+## 📈 Activity & Contribution Velocity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iemafzalhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed with precision. Committed to high-availability and zero downtime.</sub>
+</div>
