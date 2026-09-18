@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afzal_Hassan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemafzalhassan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.iemafzalhassan.tech-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-iemafzalhassan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iemafzalhassan)
 [![Email](https://img.shields.io/badge/Email-iemafzalhassan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
 
 ---
@@ -75,8 +74,7 @@ PROGRAMMING & SYSTEMS       ▸ Go (Golang) • Python • Bash / Shell Scriptin
 ## 📈 Activity & Contribution Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iemafzalhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemafzalhassan&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="45%" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iemafzalhassan&theme=youtube-dark" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
