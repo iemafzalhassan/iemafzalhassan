@@ -1,84 +1,62 @@
 <div align="center">
 
 # Afzal Hassan
-### **Platform & Reliability Engineer** | **Cloud-Native & SRE Architecture**
-**Operating Air-Gapped Banking Platforms** • **Autonomous AI for Observability** • **Tech Community Builder**
+**Platform & Reliability Engineer | Cloud-Native & SRE Architecture**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afzal_Hassan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemafzalhassan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.iemafzalhassan.tech-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
-[![Email](https://img.shields.io/badge/Email-iemafzalhassan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
+*"Building deterministic, resilient distributed systems where security and observability are foundational invariants."*
 
----
-
-> *"Building deterministic, resilient distributed systems where security and observability are foundational invariants."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iemafzalhassan/)
+[![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/iemafzalhassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.iemafzalhassan.tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iemafzalhassan@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+### 🚀 Executive Summary
 
-Platform & DevOps Engineer at **Sunfire Technologies** (deployed on-site with **Yubi**), operating an enterprise collections platform for a Tier-1 Indian public-sector bank across air-gapped **Red Hat OpenShift** clusters (zero internet egress). 
+I am a Platform & DevOps Engineer currently operating enterprise collections platforms for a Tier-1 public-sector bank at **Sunfire Technologies**. My daily operations revolve around managing air-gapped **Red Hat OpenShift** clusters (zero internet egress), executing deterministic disaster recovery drills (ensuring RTO/RPO compliance), and enforcing zero-trust network policies. 
 
-- **Core Engineering:** Air-gapped release engineering, deterministic disaster recovery drills (RTO/RPO compliance), zero-trust network policies (OVN-Kubernetes), and enterprise IAM (Keycloak 26 OIDC).
-- **AI + Observability:** Co-organizer of **Grafana & Friends Mumbai** and creator of **OutagePilot** (an autonomous multi-agent SRE triage engine powered by Go and Gemini).
-- **Community:** Core Team Member at **Cloud Native Mumbai** (500+ engineers) and co-builder of **Merge & Rise**.
+Beyond enterprise infrastructure, I am deeply invested in AI-driven observability and community building. I co-organize **Grafana & Friends Mumbai** and **Cloud Native Mumbai**, driving technical empowerment across the cloud-native ecosystem.
 
 ---
 
-## 🚀 Flagship Architecture & Engineering Projects
+### 🏗️ Flagship Projects
 
-| Project | Domain / Architecture | Highlights & Core Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **[OutagePilot](https://github.com/iemafzalhassan/OutagePilot)** | **Autonomous AI SRE Platform** | Lightweight in-cluster Go daemons capturing real-time K8s anomalies (`OOMKilled`, `CrashLoopBackOff`); autonomous ReAct triage loop using Google Gemini to formulate remediation runbooks and healing patches. | [Code](https://github.com/iemafzalhassan/OutagePilot) |
-| **EdgeOps** | **Hybrid Multi-Arch Zero-Trust Mesh** | Persistent hybrid K8s cluster (ARM64 Apple Silicon + x86_64) interconnected via Flannel VXLAN bound to Tailscale WireGuard (`tailscale0`). Zero inbound open ports via Cloudflare Tunnels, Keycloak 26 OIDC, and CloudNativePG HA. | `Private / Homelab` |
-| **[terraform-cluster](https://github.com/iemafzalhassan/terraform-cluster)** | **Production Amazon EKS Auto Mode** | Declarative multi-AZ AWS VPC architecture with dynamic node provisioning via Karpenter, IRSA least-privilege scoping, KMS envelope encryption, and metrics server automation. | [Code](https://github.com/iemafzalhassan/terraform-cluster) |
-| **Kube-Telemetry-Stage** | **Cloud-Native Observability & Gateway API** | Modern Azure AKS deployment migrating legacy Ingress to Kubernetes Gateway API (GA v1.5) via Traefik v3 HTTPRoute splitting, Azure Workload Identity Federation, and ArgoCD GitOps bootstrapping. | [Architecture](https://portfolio.iemafzalhassan.tech) |
-| **[Excalidraw Integration](https://github.com/iemafzalhassan)** | **Open-Source Multi-Board Engine** | Engineered Google Drive-backed multi-board persistence and containerized Docker distribution for self-hosted collaborative whiteboarding. | [PR / Fork](https://github.com/iemafzalhassan) |
-
----
-
-## 🛠 Technical Invariants & Stack
-
-```
-PLATFORM & ORCHESTRATION    ▸ Kubernetes • Red Hat OpenShift • Amazon EKS • Azure AKS • Docker
-INFRASTRUCTURE AS CODE      ▸ Terraform • OpenTofu • Terragrunt • Helm • Bash • Linux (RHEL, Debian)
-GITOPS & CONTINUOUS FLOW    ▸ ArgoCD (App-of-Apps) • GitHub Actions • GitLab CI • Jenkins (ephemeral JNLP)
-OBSERVABILITY & RELIABILITY ▸ Grafana • Prometheus • Loki • OpenTelemetry • Traefik Gateway API
-SECURITY & ZERO-TRUST       ▸ Keycloak (OIDC/OAuth2) • External Secrets Operator (ESO) • OpenBao / Vault • Tailscale
-PROGRAMMING & SYSTEMS       ▸ Go (Golang) • Python • Bash / Shell Scripting • TypeScript / Node.js
-```
+| Project | Description | Key Technologies |
+| :--- | :--- | :--- |
+| **[OutagePilot](https://github.com/iemafzalhassan/OutagePilot)** | **Autonomous AI SRE Platform:** Detects real-time K8s anomalies (`OOMKilled`, `CrashLoopBackOff`) using in-cluster Go daemons and a Google Gemini ReAct loop for automated runbook synthesis. | Go, K8s, Gemini AI, SRE |
+| **[terraform-cluster](https://github.com/iemafzalhassan/terraform-cluster)** | **Production AWS Cloud Platform:** Multi-AZ Amazon EKS Auto Mode setup with Karpenter dynamic scaling, IRSA least-privilege scoping, and AWS KMS envelope encryption. | AWS, EKS, Terraform, Karpenter |
+| **[EdgeOps](https://github.com/iemafzalhassan/EdgeOps)** | **Hybrid Multi-Arch Zero-Trust Mesh:** Connects ARM64 & x86_64 nodes via Flannel VXLAN and Tailscale WireGuard, secured with Cloudflare Tunnels and Keycloak 26 OIDC. | Tailscale, Keycloak, K8s, Cloudflare |
+| **[Kube-Telemetry-Stage](https://github.com/iemafzalhassan/Kube-Telemetry-Stage)** | **Observability & Gateway API:** Azure AKS deployment using Kubernetes Gateway API (Traefik v3 HTTPRoute splitting), Azure Workload Identity, and Argo CD GitOps. | Azure AKS, Traefik, Argo CD |
 
 ---
 
-## 📜 Verified Credentials
+### 🛠️ Technical Capabilities
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
-  <img src="https://img.shields.io/badge/GitLab-Solutions%20Architect%20Verified%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab SA" />
-  <img src="https://img.shields.io/badge/Linux%20Foundation-LFS169%20Introduction%20to%20GitOps-003B5C?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="GitOps" />
-  <img src="https://img.shields.io/badge/GitHub-Foundations%20Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
-</p>
+**Cloud & Orchestration** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Red Hat OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure AKS](https://img.shields.io/badge/Azure_AKS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+**Infrastructure as Code & GitOps** ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 🎙 Talks & Community Leadership
+**Observability & Reliability** ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
-- **Co-Organizer — [Grafana & Friends Mumbai](https://www.linkedin.com/company/grafana-user-group-mumbai/)**: Curating technical sessions on Prometheus, Loki, OpenTelemetry, and speaking on *"From Alert to Action with Grafana MCP and AI"* alongside Simon Prickett (Grafana Labs).
-- **Core Team Member — [Cloud Native Mumbai](https://www.linkedin.com/company/cloudnativemumbai/)**: Organizing in-person CNCF meetups, workshops, and CFPs for a vibrant community of 500+ cloud-native engineers.
-- **Co-Builder — Merge and Rise**: Driving DEI and technical empowerment initiatives for women in cloud-native and AI engineering.
-- **Academic Outreach**: Guest technical speaker at ITM Skills University on container runtimes, Kubernetes architecture, and open-source contribution pathways.
+**Security, Networking & IAM** ![Keycloak](https://img.shields.io/badge/Keycloak-0092D0?style=for-the-badge&logo=keycloak&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=for-the-badge&logo=tailscale&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+
+**Core Systems & Languages** ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 Activity & Contribution Velocity
+### 🏆 Certifications & Verification
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iemafzalhassan&theme=youtube-dark" alt="GitHub Streak" /></a>
-</div>
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=cncf&logoColor=white)](#) 
+[![GitLab SA](https://img.shields.io/badge/GitLab-Solutions_Architect_Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#) 
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-<br/>
+---
 
-<div align="center">
-  <sub>Designed with precision. Committed to high-availability and zero downtime.</sub>
-</div>
+### 🎤 Community Leadership
+
+* **Grafana & Friends Mumbai:** Co-Organizer (Sessions on Prometheus, Loki, OpenTelemetry, and MCP).
+* **Cloud Native Mumbai:** Core Team Member (Organizing technical meetups for 500+ engineers).
+* **Mentorship:** Reach out for 1:1 sessions on Platform Engineering, K8s, and Career Guidance via [Topmate](https://topmate.io/iemafzalhassan).
